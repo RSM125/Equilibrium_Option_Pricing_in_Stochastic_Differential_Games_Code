@@ -18,6 +18,9 @@ numerical experiments. Detailed instructions and dependencies will be added
 as the repository is finalized.
 
 ## Notes
+All code development benefited from conceptual input and debugging assistance
+from large language models (Claude).
+
 This repository is intended for academic and research use.  
 If you use or build upon this code, please cite the corresponding paper.
 
